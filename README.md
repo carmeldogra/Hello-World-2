@@ -1,2 +1,2 @@
 # Hello-World-2
-Trial with Git Bash
+Trial with Git Bash, first contribution
